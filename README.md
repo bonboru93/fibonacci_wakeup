@@ -11,13 +11,17 @@ Change parameter i, rerun_time in stat.py and TOTAL_TIME in *.c to satisfy your 
 
 waitingTime: 两次有效唤醒的间隔时间
 
-totWakeUp: 总唤醒次数
+totWakeUp: 总唤醒次数，与耗电量正相关
 
 totValidWakeup: 有效唤醒次数（无冲突）
 
 validRate: 有效唤醒率
 
 ## SAMPLE OUTPUT (rerun_time = 1000, TOTAL_TIME = 1000000)
+
+x轴: node
+
+从图上看，在二者的waitingTime和totValidWakeup接近的情况下，fibonacciInterval有更高的validRate，更低的totWakeUp，也即fibonacciInterval更有效
 
 ### waitingTime:
 
