@@ -20,10 +20,17 @@ validRate: 有效唤醒率
 ## SAMPLE OUTPUT (rerun_time = 1000, TOTAL_TIME = 1000000)
 
 waitingTime:
+
 ![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/waitingTime.png)
+
 totWakeUp:
+
 ![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/totWakeup.png)
+
 totValidWakeup:
+
 ![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/totValidWakeup.png)
+
 validRate:
+
 ![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/validRate.png)
