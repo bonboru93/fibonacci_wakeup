@@ -5,7 +5,7 @@
 	chmod +x ./go.sh
 	./go.sh
 
-	Change parameter i, rerun_time in stat.py and TOTAL_TIME in *.c to satisfy your requirement.
+Change parameter i, rerun_time in stat.py and TOTAL_TIME in *.c to satisfy your requirement.
 
 ## OUTPUT CHART
 
