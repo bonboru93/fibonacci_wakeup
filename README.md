@@ -39,7 +39,7 @@ x轴: node
 
 ![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/validRate_fix.png)
 
-## SAMPLE OUTPUT (ZOOM IN TO CAMPARE fibonacci AND random)
+## SAMPLE OUTPUT (ZOOM IN TO COMPARE fibonacci AND random)
 
 ### waitingTime:
 
