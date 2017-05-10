@@ -25,6 +25,24 @@ x轴: node
 
 ### waitingTime:
 
+![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/waitingTime_fix.png)
+
+### totWakeUp:
+
+![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/totWakeup_fix.png)
+
+### totValidWakeup:
+
+![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/totValidWakeup_fix.png)
+
+### validRate:
+
+![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/validRate_fix.png)
+
+## SAMPLE OUTPUT (ZOOM IN TO CAMPARE fibonacci AND random)
+
+### waitingTime:
+
 ![](https://github.com/bonboru93/fibonacci_wakeup/blob/master/waitingTime.png)
 
 ### totWakeUp:
