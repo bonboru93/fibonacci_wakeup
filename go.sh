@@ -1,7 +1,9 @@
 gcc -fPIC -o fibonacciInterval.so -shared ./fibonacciInterval.c
 gcc -fPIC -o randomInterval.so -shared ./randomInterval.c
-pip install --upgrade pip
+gcc -fPIC -o randomFixInterval.so -shared ./randomFixInterval.c
 pip install matplotlib
-apt-get update
 apt-get install python-tk
+echo ==========
+echo RUNNING
+echo ==========
 python stat.py
